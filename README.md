@@ -1,4 +1,4 @@
-# Auxilio-emergencia
+# Auxilio-emergencial
 
  A partir da sua renda e o número de integrantes,  você consegue saber se é beneficiario ou não do auxilio emergencial.
  
